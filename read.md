@@ -3,7 +3,7 @@
 
 ## 📑 Project Description
 
-This project uses machine learning to predict student academic performance based on a variety of factors such as previous grades, study habits, absences, family background, and personal characteristics.
+This project uses spervised machine learning to predict student academic performance based on a variety of factors such as previous grades, study habits, absences, family background, and personal characteristics.
 
 Leverages the **UCI Student Performance Dataset**, to show how predictive models can help educators identify students who may need additional support early on.
 
